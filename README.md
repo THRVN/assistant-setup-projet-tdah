@@ -128,7 +128,7 @@ git push
 
 Le fichier HTML est facilement modifiable :
 - **Styles** : Change les couleurs dans les variables CSS (`:root`)
-- **Prompts** : Modifie la fonction `generatePrompt()` pour adapter les instructions
+- **Prompts** : Modifie la fonction `generatePrompt()` dans `script.js` pour adapter les instructions
 - **Champs** : Ajoute des inputs supplémentaires selon tes besoins
 
 ## 🤝 Contribution
@@ -154,7 +154,7 @@ git push origin feature/ma-fonctionnalite
 
 ## 📚 Ressources complémentaires
 
-- [Guide pratique complet](GUIDE-README.html) - Toute la méthode expliquée en détail
+- [Guide pratique complet](https://thrvn.github.io/assistant-setup-projet-tdah/GUIDE.html) - Toute la méthode expliquée en détail
 - [How to ADHD](https://www.youtube.com/howtoadhd) - Chaîne YouTube sur le TDAH
 - [ADHD Programmers](https://www.reddit.com/r/ADHD_Programmers/) - Communauté Reddit
 
