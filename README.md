@@ -7,7 +7,7 @@
 
 ## 🎯 Pourquoi cet outil ?
 
-Si tu as un TDAH et que tu développes, tu connais probablement ces défis :
+Si tu as un TDAH et que tu codes, tu connais probablement ces défis :
 - 😰 Tu te sens perdu dès que le projet devient complexe
 - 🔄 Tu recommences tout au moindre obstacle
 - 📝 Tu oublies où tu en étais entre deux sessions
