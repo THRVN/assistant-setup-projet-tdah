@@ -24,7 +24,7 @@ Si tu as un TDAH et que tu développes, tu connais probablement ces défis :
 ## 🚀 Utilisation
 
 ### En ligne
-Ouvre simplement le fichier `index.html` dans ton navigateur (double-clic suffit)
+Ouvre simplement le fichier `index.html` dans ton navigateur (double-clic suffit)<br>
 Ou clique sur 👉​ [assistant-setup-projet-tdah](https://thrvn.github.io/assistant-setup-projet-tdah/)
 
 ### Localement
