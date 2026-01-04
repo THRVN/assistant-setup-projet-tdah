@@ -137,6 +137,7 @@ h1 {
 .subtitle {
     color: var(--text-dim);
     font-size: 1.1rem;
+    margin-bottom: 25px;
 }
 
 .card {
