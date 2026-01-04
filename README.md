@@ -91,7 +91,7 @@ Cet outil s'appuie sur une méthode éprouvée pour le TDAH :
 4. **Premier commit** : Point de sauvegarde zéro
 5. **Routine de session** : Commit à chaque fin de session + résumé IA
 
-➡️ **[Lire le guide complet](https://thrvn.github.io/assistant-setup-projet-tdah/guide.html)**
+➡️ **[Lire le guide complet](https://thrvn.github.io/assistant-setup-projet-tdah/GUIDE.html)**
 
 ## 💡 Conseils d'utilisation
 
@@ -154,7 +154,7 @@ git push origin feature/ma-fonctionnalite
 
 ## 📚 Ressources complémentaires
 
-- [Guide pratique complet](https://thrvn.github.io/assistant-setup-projet-tdah/guide.html) - Toute la méthode expliquée en détail
+- [Guide pratique complet](https://thrvn.github.io/assistant-setup-projet-tdah/GUIDE.html) - Toute la méthode expliquée en détail
 - [How to ADHD](https://www.youtube.com/howtoadhd) - Chaîne YouTube sur le TDAH
 - [ADHD Programmers](https://www.reddit.com/r/ADHD_Programmers/) - Communauté Reddit
 
